@@ -19,8 +19,19 @@ PATH = "Location where Java Compiler is installed"
 
 # JUPYTER NOTEBOOK
 Key Pages: https://jupyter.org/install
+
 - Jupter lab
   pip install jupyterlab
 
 - Jupyter Notebook
   pip install notebook
+
+# VERSION CONTROL
+ - git
+
+# HOSTING FOR VERSION CONTROL
+ - github
+
+# PySpark Installation
+ - pip install pyspark
+
